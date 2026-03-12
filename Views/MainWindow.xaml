@@ -1,0 +1,1 @@
+<Button Content="Open Chart" Click="OpenChartButton_Click" />
